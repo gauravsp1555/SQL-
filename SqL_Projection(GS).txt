@@ -1,7 +1,7 @@
 
 SQL> -- assignment no 1
 SQL> conn
-Enter user-name: scott /tiger
+Enter user-name: Gaurav Prakash sapkar
 Connected.
 SQL> -- WRITE A QUERY TO DISPLAY ALL THE DETAILS FROM THE EMPLOYEE TABLE
 SQL> select * from emp;
